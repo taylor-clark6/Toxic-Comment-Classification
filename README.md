@@ -6,6 +6,7 @@ This project demonstrates how to preprocess text data using Apache Spark's MLlib
 
 - `train.csv`: Input dataset containing text and toxicity label columns.
 - `spark_text_classification.py`: Main Spark pipeline script.
+- The dataset can be found at https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 ## 🧰 Technologies Used
 
